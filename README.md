@@ -1,6 +1,6 @@
 Olá Amigos 😊👋
 
-- 💻 Atualmente estou estudando para o aperfeiçoamento do meu Front-end
+- 💻 Atualmente estudando para o aperfeiçoamento do meu conhecimento dentro da analise de dados
 - 📚 Faço faculdade de tecnologia da informação 
 - 😄 Pode me chamar de Ele/Dele
 
