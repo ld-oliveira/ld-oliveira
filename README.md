@@ -1,6 +1,5 @@
 Olá Amigos 😊👋
 
-- 💻 Atualmente estudando para o aperfeiçoamento do meu conhecimento dentro da analise de dados
 - 📚 Faço faculdade de tecnologia da informação 
 - 😄 Pode me chamar de Ele/Dele
 
