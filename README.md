@@ -1,3 +1,22 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:051119,50:00D1FF,100:00FF88&text=Leonardo%20Oliveira&fontColor=F8F7F3&fontSize=42&fontAlign=50&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20Python%20·%20ReactJS%20·%20NestJS%20·%20Django%20·%20PostgreSQL&descSize=18&descAlign=50&descAlignY=60" alt="Leonardo Oliveira banner"/>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Olá Amigos 😊👋
 
 - 🎓 Formado em Tecnologia da informação.
@@ -22,3 +41,10 @@ Olá Amigos 😊👋
 
   
 </div>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:051119,50:00D1FF,100:00FF88"/>
+
+
+
+
